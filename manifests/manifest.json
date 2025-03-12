@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Mojtaba-Behboudi.github.io/TMDRA/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "\"Sunset at Persepolis: The Timeless Majesty of Ancient Persian Architecture\"",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "stunning digital representation of the ancient ruins of Persepolis, located in Iran. The image captures the grandeur of the site's iconic columns and intricate carvings, set against a serene backdrop of mountains and a clear sky. This high-resolution resource allows for detailed exploration of the archaeological remains, offering viewers an immersive experience into one of the world's most significant historical sites. Ideal for scholars, students, and enthusiasts interested in ancient Persian architecture and history, this manifest facilitates zooming, panning, and annotation capabilities to enhance understanding and appreciation of Persepolis' cultural heritage.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://582ff099-28e4-4b94-9185-0b4991ff6b29",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://9a8dd1b3-e52d-4963-b8c5-b2f4bf672dfa",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 800,
+      "width" : 1200,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e77d6e51-4f60-4fa7-a20b-823f9bf455e2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mojtaba-behboudi.github.io/TMDRA/images/poster_b7776797-02f9-42c4-9924-a2245118c44c/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mojtaba-behboudi.github.io/TMDRA/images/poster_b7776797-02f9-42c4-9924-a2245118c44c",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 800,
+          "width" : 1200
+        },
+        "on" : "http://9a8dd1b3-e52d-4963-b8c5-b2f4bf672dfa"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

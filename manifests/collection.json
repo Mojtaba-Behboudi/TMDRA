@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Mojtaba-Behboudi.github.io/TMDRA/manifests/manifest.json",
     "label" : "\"Sunset at Persepolis: The Timeless Majesty of Ancient Persian Architecture\""
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Mojtaba-Behboudi.github.io/TMDRA/manifests/manifest3.json",
+    "label" : "A Colorful Display of Tulips in Brown Paper Bags"
   } ]
 }

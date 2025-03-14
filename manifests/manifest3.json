@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Mojtaba-Behboudi.github.io/TMDRA/manifests/manifest3.json",
+  "@type" : "sc:Manifest",
+  "label" : "A Colorful Display of Tulips in Brown Paper Bags",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "This vibrant image features an eye-catching arrangement of tulips in various colors, neatly bundled in rustic brown paper bags. The bright yellow tulips add a cheerful and sunny touch, while the soft pink ones evoke romance and gentleness. Pristine white tulips symbolize purity and new beginnings, and bold red tulips convey love and passion. The earthy brown paper bags provide a natural contrast, enhancing the tulips' vivid hues, while wooden clips add a charming and practical detail to the display. The softly blurred background hints at a bustling floral market or garden setting, adding depth and context to the scene. Together, these elements create a lively and inviting composition that celebrates the beauty and diversity of tulips.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://edd5acd5-9ee1-481c-ad95-f8524cb97715",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://e500f6ba-c925-4ca6-9937-16029c5535f9",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 7360,
+      "width" : 4912,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fe856419-b87b-4930-bba1-dc0445b6cf3f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nana114109.github.io/TMDRA2/images/photo3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nana114109.github.io/TMDRA2/images/photo3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 7360,
+          "width" : 4912
+        },
+        "on" : "http://e500f6ba-c925-4ca6-9937-16029c5535f9"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

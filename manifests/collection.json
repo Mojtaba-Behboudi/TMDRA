@@ -25,5 +25,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Mojtaba-Behboudi.github.io/TMDRA/manifests/manifestt",
     "label" : "tracto"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Mojtaba-Behboudi.github.io/TMDRA/manifests/mojife.json",
+    "label" : "tracto"
   } ]
 }

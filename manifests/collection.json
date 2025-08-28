@@ -49,5 +49,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Mojtaba-Behboudi.github.io/TMDRA/manifests/pasargad2",
     "label" : "The takhte jams hid picture"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Mojtaba-Behboudi.github.io/TMDRA/manifests/pasargad",
+    "label" : "The takhte jams hid picture"
   } ]
 }

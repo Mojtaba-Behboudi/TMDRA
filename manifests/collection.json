@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Mojtaba-Behboudi.github.io/TMDRA/manifests/manifest3.json",
     "label" : "A Colorful Display of Tulips in Brown Paper Bags"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Mojtaba-Behboudi.github.io/TMDRA/manifests/mojifest.json",
+    "label" : "tracto"
   } ]
 }

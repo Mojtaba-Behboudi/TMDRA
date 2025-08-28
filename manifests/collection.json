@@ -33,5 +33,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Mojtaba-Behboudi.github.io/TMDRA/manifests/manifest",
     "label" : "new"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Mojtaba-Behboudi.github.io/TMDRA/manifests/1",
+    "label" : "new"
   } ]
 }
